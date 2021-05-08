@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\wt]
+@="Open By Windows Terminal"
+"Icon"="D:\\ROBERTLIU\\ROBERT\\terminal.ico"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\wt\command]
+@="C:\\Users\\liujian\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
