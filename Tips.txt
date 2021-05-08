@@ -1,0 +1,14 @@
+1、git cz types(C:\Program Files\nodejs\node_modules\commitizen\node_modules\conventional-commit-types) 配置文件 --- index.json
+2、WT 配置文件 --- settings.json
+3、git bash 配置文件 --- .minttyrc
+4、VSCode 配置文件 --- VSCode.json
+5、VSCode Sync(github)  Gist ID --- 3028b9097687169a2583b754277f130c     令牌 --- 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
+6、github 连接报错 
+C:\Windows\System32\drivers\etc\hosts
+140.82.113.4 github.com 
+199.232.69.194 github.global.ssl.fastly.net
+185.199.108.153 assets-cdn.github.com
+185.199.109.153 assets-cdn.github.com
+185.199.110.153 assets-cdn.github.com
+185.199.111.153 assets-cdn.github.com
+cmd  ipconfig /flushdns

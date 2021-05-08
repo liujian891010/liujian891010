@@ -1,0 +1,60 @@
+{
+  "types": {
+    "build": {
+      "description": "更新项目构建系统",
+      "title": "build"
+    },
+    "ci": {
+      "description": "持续集成",
+      "title": "ci"
+    },
+    "docs": {
+      "description": "更新文档",
+      "title": "docs"
+    },
+    "feat": {
+      "description": "新增功能",
+      "title": "feat"
+    },
+    "update": {
+      "description": "更新代码",
+      "title": "update"
+    },
+    "fix": {
+      "description": "bug修复",
+      "title": "fix"
+    },
+    "perf": {
+      "description": "性能、体验优化",
+      "title": "perf"
+    },
+    "refactor": {
+      "description": "重构代码",
+      "title": "refactor"
+    },
+    "style": {
+      "description": "不影响逻辑的代码修改",
+      "title": "style"
+    },
+    "test": {
+      "description": "新增测试用例或是更新现有测试",
+      "title": "test"
+    },
+    "revert": {
+      "description": "回滚某个更早之前的提交",
+      "title": "revert"
+    },
+    "merge": {
+      "description": "分支合并",
+      "title": "merge"
+    },
+    "chore": {
+      "description": "不属于以上类型的其他类型",
+      "title": "chore"
+    },
+    "init": {
+      "description": "初始化一个项目",
+      "title": "init"
+    }
+  }
+}

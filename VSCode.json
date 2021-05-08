@@ -1,0 +1,117 @@
+{
+	"workbench.sideBar.location": "right",
+	"editor.fontSize": 16,
+	"debug.console.fontSize": 16,
+	"markdown.preview.fontSize": 16,
+	"terminal.integrated.fontSize": 16,
+	"editor.fontFamily": "Source Code Pro, Consolas, 'Courier New', monospace",
+	"editor.tabSize": 2,
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.colorTheme": "One Dark Pro",
+	"vsicons.dontShowNewVersionMessage": true,
+	"files.autoSave": "onFocusChange",
+	"highlight-matching-tag.styles": {
+		"opening": {
+			"left": {
+				"custom": {
+					"borderWidth": "0 0 0 2px",
+					"borderStyle": "solid",
+					"borderColor": "yellow",
+					"borderRadius": "5px",
+					"overviewRulerColor": "white"
+				}
+			},
+			"right": {
+				"custom": {
+					"borderWidth": "0 2px 0 0",
+					"borderStyle": "solid",
+					"borderColor": "yellow",
+					"borderRadius": "5px",
+					"overviewRulerColor": "white"
+				}
+			}
+		}
+	},
+	"window.zoomLevel": 1,
+	"importCost.smallPackageColor": "#34eb4f",
+	"importCost.mediumPackageColor": "#e834eb",
+	"importCost.largePackageColor": "#eb3434",
+	"editor.wordWrap": "on",
+	"workbench.editor.enablePreview": false,
+	// "eslint.autoFixOnSave": true,
+  // "eslint.validate": [
+  //   "javascript",
+  //   "javascriptreact",
+  //   {
+  //     "language": "html",
+  //     "autoFix": true
+  //   },
+  //   {
+  //     "language": "vue",
+  //     "autoFix": true
+  //   }
+	// ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+	},
+	"[vue]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"leek-fund.funds": [
+		"161725"
+	],
+	"sync.gist": "3028b9097687169a2583b754277f130c",
+	"sync.autoUpload": true,
+	"sync.autoDownload": true,
+	"sync.forceUpload": true,
+	"sync.quietSync": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.formatOnSave": true,
+	"editor.snippetSuggestions": "top",
+	"emmet.includeLanguages": {"javascript": "javascriptreact"},
+	"emmet.triggerExpansionOnTab": true,
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"sync.forceDownload": true,
+	"cSpell.enabledLanguageIds": [
+		"asciidoc",
+		"c",
+		"cpp",
+		"csharp",
+		"css",
+		"git-commit",
+		"go",
+		"graphql",
+		"handlebars",
+		"haskell",
+		"html",
+		"jade",
+		"java",
+		"javascript",
+		"javascriptreact",
+		"json",
+		"jsonc",
+		"latex",
+		"less",
+		"markdown",
+		"php",
+		"plaintext",
+		"python",
+		"pug",
+		"restructuredtext",
+		"rust",
+		"scala",
+		"scss",
+		"text",
+		"typescript",
+		"typescriptreact",
+		"yaml",
+		"yml",
+		"jsx",
+		"tsx"
+	]
+}
