@@ -1,0 +1,10 @@
+[user]
+	name = liujian(ROBERT)
+	email = liujian891010@gmail.com
+[core]
+	quotepath = false
+[difftool "sourcetree"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
